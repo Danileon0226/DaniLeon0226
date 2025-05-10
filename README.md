@@ -57,9 +57,9 @@ I'm a developer who doesn’t just build — I craft. My code is driven by **vis
 
 ### 📬 Contact Me
 
-- 🌐 Portfolio: [appsfortheworld.com](https://appsfortheworld.com)
-- 📩 Email: [your-email@example.com](mailto:danielalejandrosalgadoleon@gmail.com)
-- 📷 Instagram: [@luxdesign.code](https://www.instagram.com/_____z_e_r_o_____/)
+- 🌐 Portfolio: [Profesional Portfolio](https://professional-portfolio-ruby.vercel.app/)
+- 📩 Email: [danielalejandrosalgadoleon@gmail.com](mailto:danielalejandrosalgadoleon@gmail.com)
+- 📷 Instagram: [@**\_**z_e_r_o**\_**](https://www.instagram.com/_____z_e_r_o_____/)
 
 <p align="center">
   <a href="mailto:your-email@example.com">
