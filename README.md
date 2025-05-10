@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://your-cdn.com/hero-banner.png" alt="Daniel Alejandro Banner" width="100%" style="border-radius: 20px;" />
-</p>
-
 <h1 align="center">✨ Daniel Alejandro Salgado León ✨</h1>
 <h3 align="center">Full Stack Developer · UI/UX Designer · Mobile Expert</h3>
 
