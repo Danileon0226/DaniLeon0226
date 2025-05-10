@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2f&height=150&section=header&text=Welcome%20to%20My%20World&fontColor=ffffff&fontSize=35&animation=fadeIn" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Code%20with-PRECISION-black?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/UI%2FUX-LUXURY-black?style=for-the-badge&logo=figma&logoColor=white" />
@@ -15,16 +16,18 @@
 
 ### 👨‍💻 About Me
 
-I'm a developer who doesn’t just build — I craft. My code is driven by **visual harmony**, **UX obsession**, and a pursuit of **perfection** in both design and performance. I create elegant, visually immersive applications that feel intuitive and alive.
+I’m not just a developer — I’m a digital artisan.  
+My focus is **visual harmony**, **UX obsession**, and **pixel-level perfection**.  
+I craft elegant, intuitive, and responsive experiences across web and mobile platforms.
 
 > _“Every pixel matters. Every interaction counts.”_
 
 ---
 
-### 🚀 **Tech Stack**
+### 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,mongodb,figma,html,css,mui,vite,bash,nestjs,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,mongodb,express,figma,html,css,mui,tailwind,expo,nestjs,firebase,vite,bash,netlify,vercel" />
 </div>
 
 **Frontend:** React, Next.js, MUI, Tailwind, Expo  
@@ -55,6 +58,15 @@ I'm a developer who doesn’t just build — I craft. My code is driven by **vis
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Danileon0226&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danileon0226&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ### 📬 Contact Me
 
 - 🌐 Portfolio: [Profesional Portfolio](https://professional-portfolio-ruby.vercel.app/)
@@ -62,7 +74,7 @@ I'm a developer who doesn’t just build — I craft. My code is driven by **vis
 - 📷 Instagram: [@**\_**z_e_r_o**\_**](https://www.instagram.com/_____z_e_r_o_____/)
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:danielalejandrosalgadoleon@gmail.com">
     <img src="https://img.shields.io/badge/📩%20Hire%20Me-Elegant-black?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -70,5 +82,3 @@ I'm a developer who doesn’t just build — I craft. My code is driven by **vis
 ---
 
 > 🧠 “Design it like it’s luxury. Code it like it’s art.”
-
----
